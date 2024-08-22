@@ -1,6 +1,8 @@
 ## Desenvolvedor Front-End
-Aqui é sem lamentos é código sem bonito e objetivo 
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lamentavelman&theme=radical&mode=weekly" />
+<p>Aqui é sem lamentos é código sem bonito e objetivo</p> 
+<div  align="center" style="margin-bottom:100px">
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lamentavelman&theme=radical&mode=weekly" />
+</div>
 <!--
 **lamentavelman/lamentavelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
