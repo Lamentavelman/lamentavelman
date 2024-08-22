@@ -1,7 +1,11 @@
 ## Desenvolvedor Front-End
 Aqui é sem lamentos é código sem bonito e objetivo 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-lamentavelman.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+ </div>
 <!--
-**Lamentavelman/lamentavelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lamentavelman/lamentavelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
