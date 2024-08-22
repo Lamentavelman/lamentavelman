@@ -1,5 +1,5 @@
-## Desenvolvedor Front-End
-<p>Aqui é sem lamentos é código sem bonito e objetivo</p> 
+<h1 align="center">Desenvolvedor Front-End</h1>
+<p align="center">Aqui é sem lamentos é código sem bonito e objetivo</p> 
 <div  align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lamentavelman&theme=radical&mode=weekly" />
 </div>
