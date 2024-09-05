@@ -3,6 +3,13 @@
 <div  align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lamentavelman&theme=radical&mode=weekly" />
 </div>
+  ## :rocket: Tecnologias Usadas
+  
+  -  [PHP](https://www.php.net/)
+  -  [MySql](https://www.mysql.com/)
+  -  CSS
+  -  JavaScript
+  -  HTML
 <!--
 **lamentavelman/lamentavelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
